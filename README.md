@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/koyote25/azcli/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/koyote25/azcli/_build/latest?definitionId=16&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
